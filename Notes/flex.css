@@ -21,4 +21,5 @@ h1{
     height: 100px;
     text-align: center;
     flex-basis: 100px;
+    flex-grow: 1;
 }
